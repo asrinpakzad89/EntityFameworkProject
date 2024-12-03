@@ -1,0 +1,12 @@
+F:\0. Test-Me\EntityFameworkProject\Framework\bin\Debug\net6.0\Framework.deps.json
+F:\0. Test-Me\EntityFameworkProject\Framework\bin\Debug\net6.0\Framework.dll
+F:\0. Test-Me\EntityFameworkProject\Framework\bin\Debug\net6.0\Framework.pdb
+F:\0. Test-Me\EntityFameworkProject\Framework\obj\Debug\net6.0\Framework.csproj.AssemblyReference.cache
+F:\0. Test-Me\EntityFameworkProject\Framework\obj\Debug\net6.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+F:\0. Test-Me\EntityFameworkProject\Framework\obj\Debug\net6.0\Framework.AssemblyInfoInputs.cache
+F:\0. Test-Me\EntityFameworkProject\Framework\obj\Debug\net6.0\Framework.AssemblyInfo.cs
+F:\0. Test-Me\EntityFameworkProject\Framework\obj\Debug\net6.0\Framework.csproj.CoreCompileInputs.cache
+F:\0. Test-Me\EntityFameworkProject\Framework\obj\Debug\net6.0\Framework.dll
+F:\0. Test-Me\EntityFameworkProject\Framework\obj\Debug\net6.0\refint\Framework.dll
+F:\0. Test-Me\EntityFameworkProject\Framework\obj\Debug\net6.0\Framework.pdb
+F:\0. Test-Me\EntityFameworkProject\Framework\obj\Debug\net6.0\ref\Framework.dll

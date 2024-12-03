@@ -1,0 +1,17 @@
+F:\0. Test-Me\EntityFameworkProject\Persistence\bin\Debug\net6.0\Persistence.deps.json
+F:\0. Test-Me\EntityFameworkProject\Persistence\bin\Debug\net6.0\Persistence.dll
+F:\0. Test-Me\EntityFameworkProject\Persistence\bin\Debug\net6.0\Persistence.pdb
+F:\0. Test-Me\EntityFameworkProject\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\0. Test-Me\EntityFameworkProject\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+F:\0. Test-Me\EntityFameworkProject\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+F:\0. Test-Me\EntityFameworkProject\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+F:\0. Test-Me\EntityFameworkProject\Persistence\obj\Debug\net6.0\Persistence.dll
+F:\0. Test-Me\EntityFameworkProject\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+F:\0. Test-Me\EntityFameworkProject\Persistence\obj\Debug\net6.0\Persistence.pdb
+F:\0. Test-Me\EntityFameworkProject\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+F:\0. Test-Me\EntityFameworkProject\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+F:\0. Test-Me\EntityFameworkProject\Persistence\bin\Debug\net6.0\Domain.dll
+F:\0. Test-Me\EntityFameworkProject\Persistence\bin\Debug\net6.0\Domain.pdb
+F:\0. Test-Me\EntityFameworkProject\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+F:\0. Test-Me\EntityFameworkProject\Persistence\obj\Debug\net6.0\Persiste.61C28332.Up2Date
+F:\0. Test-Me\EntityFameworkProject\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
