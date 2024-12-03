@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using Domain.Entities;
+using Domain.Entities.Products;
 using MediatR;
 using Persistence.Repositories;
 
@@ -21,10 +21,10 @@ public class CreateProductCommandHandler : IRequestHandler<CreateProductCommand>
     {
         try
         {
-            _command = command;
-            var product = _mapper.Map<Product>(_command);
-            await _productRepository.AddAsync(product, cancellationToken);
-            await _productRepository.SaveChangeAsync(cancellationToken);
+            //_command = command;
+            //var product = _mapper.Map<Product>(_command);
+            //await _productRepository.AddAsync(product, cancellationToken);
+            //await _productRepository.SaveChangeAsync(cancellationToken);
         }
         catch (Exception ex)
         {

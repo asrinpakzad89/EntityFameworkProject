@@ -1,6 +1,6 @@
 ﻿using Application.Dtos.Product;
 using AutoMapper;
-using Domain.Entities;
+using Domain.Entities.Products;
 using Framework.Api;
 using MediatR;
 using Persistence.Repositories;

@@ -17,3 +17,4 @@ F:\0. Test-Me\EntityFameworkProject\Application\obj\Debug\net8.0\Application.dll
 F:\0. Test-Me\EntityFameworkProject\Application\obj\Debug\net8.0\refint\Application.dll
 F:\0. Test-Me\EntityFameworkProject\Application\obj\Debug\net8.0\Application.pdb
 F:\0. Test-Me\EntityFameworkProject\Application\obj\Debug\net8.0\ref\Application.dll
+F:\0. Test-Me\EntityFameworkProject\Application\obj\Debug\net8.0\Application.sourcelink.json

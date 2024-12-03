@@ -17,3 +17,4 @@ F:\0. Test-Me\EntityFameworkProject\Persistence\obj\Debug\net8.0\refint\Persiste
 F:\0. Test-Me\EntityFameworkProject\Persistence\obj\Debug\net8.0\Persistence.pdb
 F:\0. Test-Me\EntityFameworkProject\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
 F:\0. Test-Me\EntityFameworkProject\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+F:\0. Test-Me\EntityFameworkProject\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json

@@ -2,16 +2,9 @@
 using Application.Dtos.Token;
 using Application.Dtos.User;
 using AutoMapper;
-using Domain.Entities;
+using Domain.Entities.Users;
 using MediatR;
-using Microsoft.Identity.Client;
 using Persistence.Repositories;
-using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Application.Features.Users.Query.GetUserById;
 
@@ -57,7 +50,7 @@ public class GetUserByIdQueryHandler : IRequestHandler<GetUserByIdQuery, UserDto
         return _tokenService.GenerateToken(new UserDetailDto
         {
             Id = user.Id,
-            Username = user.Username,
+            Username = user.Email,
             Password = user.Password
         });
     }
